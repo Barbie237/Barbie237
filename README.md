@@ -16,8 +16,7 @@ I ✨ like ✨ solving problems, traveling, discovering nature, singing, dancing
 
 <a href="https://twitter.com/anne_tebu"><img align=”left” src=”https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
 <a href="https://linkedin.com/in/anne-barbara-tebu-68b8a2215"></a>
-recent:///5056d4090ee6c68f20a23a03660d2f55
-
+<a href="https://twitter.com/anne_tebu"><img align=”left” src="file:///home/barbara/Pictures/Screenshots/Screenshot%20from%202024-04-03%2010-08-39.png" alt="Anne Barbara | Twitter width="35px"/><a>
 
 
 `README.md` (this file) appears on your GitHub profile.
