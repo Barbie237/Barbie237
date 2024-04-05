@@ -13,6 +13,7 @@ I ✨ like ✨ solving problems, traveling, discovering nature, singing, dancing
 
 🤝 Connecy with me
 <hr>
+<img src="file:///home/barbara/Downloads/icons8-gmail-48.png"/>
 
  
 <!--Here are some ideas to get you started:
