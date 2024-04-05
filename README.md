@@ -1,6 +1,6 @@
 ### Hi  there👋
 Welcome to my Github Profile!
-I am Anne Barbara Tebu, **Full Stack developer** for <a href="https://www.agrixtech.com">AgrixTech</a> living in 🇨🇲🇨🇲 Cameroon, Yaounde.
+I am Anne Barbara Tebu, **Web developer** for <a href="https://www.agrixtech.com">AgrixTech</a> living in 🇨🇲🇨🇲 Cameroon, Yaounde.
 
 I ✨ like ✨ solving problems, traveling, discovering nature, singing, dancing, building flyers and taking photographs. I ✨ like ✨ to embark on new adventures, new challenges. I love everything tech related, I am curious and always ready to learn new things.
 
