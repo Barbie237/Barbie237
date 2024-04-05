@@ -13,7 +13,7 @@ I ✨ like ✨ solving problems, traveling, discovering nature, singing, dancing
 
 🤝 Connecy with me
 <hr>
-<a href="mailto:annebarabaratebu@gmail.com"> </a><img src="https://github.com/Barbie237/Barbie237/assets/90659365/f385147d-9712-4222-b3de-ecf32bad5348"/></a>
+<a href="mailto:annebarabaratebu@gmail.com"><img src="https://github.com/Barbie237/Barbie237/assets/90659365/f385147d-9712-4222-b3de-ecf32bad5348"/></a>
 
  
 <!--Here are some ideas to get you started:
