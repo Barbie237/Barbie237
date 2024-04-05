@@ -14,8 +14,8 @@ I ✨ like ✨ solving problems, traveling, discovering nature, singing, dancing
 🤝 Connecy with me
 <hr>
 <img src="file:///home/barbara/Downloads/icons8-gmail-48.png"/>
-![icons8-gmail-48](https://github.com/Barbie237/Barbie237/assets/90659365/f385147d-9712-4222-b3de-ecf32bad5348)
-
+![icons8-gmail-48]()
+<img src="https://github.com/Barbie237/Barbie237/assets/90659365/f385147d-9712-4222-b3de-ecf32bad5348"/>
 
  
 <!--Here are some ideas to get you started:
